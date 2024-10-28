@@ -7,8 +7,11 @@
 #     print("B is Greater")
 # else:
 #     print("C is Greater")
-num=77
-if(num%7==0):
-    print("Divisible")
-else:
-    print("No Divisible")
+# num=77
+# if(num%7==0):
+#     print("Divisible")
+# else:
+#     print("No Divisible")
+arr=[1,"chinu",2]
+arr.insert(2,"c")
+print(arr)
