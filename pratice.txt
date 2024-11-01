@@ -1,0 +1,50 @@
+ Full-Stack Web Developer
+ imchinu17@gmail.com | 7077835119 | Bhubaneswar,Odisha
+ GitHub | Portfolio | Linkedin | LeetCode
+ Education
+ Parala Maharaja Engineering College
+ Degree in Bachelor of Technology (B.Tech)
+ Govt.polytechinc
+ Degree in Government Polytechnic
+ Berhampur,Odisha
+ July 2018- July 2021
+ Berhampur,Odisha
+ August 2014- August 2017
+ Skills
+ Programming Languages: JavaScript, Python, Java
+ Libraries/Frameworks:
+ React.js, Next.js, Bootstrap, Tailwind, Express.js, Redux.js, Django
+ Tools / Platforms:
+ Databases:
+ Projects / Open-Source
+ Git, Github, Chatgpt, Vs Code, Figma
+ MongoDb, Firebase, no-sql
+ MindSpark | Link
+ React,Redux Toolkit,Tailwind Css, Css, Client-Socket.io, Vercel, Node.js, Express.Js,
+ MongoDB, Socket.io, JWT
+ MindSpark is an online learning platform built using the MERN stack (MongoDB, Express, React,
+ Node.js). It o ers features like user authentication, quizzes, grading, subscription management, live
+ streaming with chat, video uploads, and event noti cations. The platform allows instructors to create
+ assignments and view submissions, while students can participate in live classes, submit assignments,
+ and manage their progress through a personal dashboard.
+ Mughal Mings | Link
+ React, Tailwind
+ Created a user-friendly website for the owner of MughalMings, featuring an online menu, reservation
+ system, and customer review integration from platforms like Google Maps and Instagram, enhancing
+ customer engagement and the overall dining experience
+ TechScan | Link
+ React, Express, MongoDB, Tailwind, CSS
+ TechScan is a dynamic tech blog o ering the latest product news and reviews. It provides detailed
+ product breakdowns, comparisons, and expert opinions to help readers stay informed about the latest
+ gadgets and technologies.
+ QuickCart | Link
+ React.js, Redux.js, Axios
+ This eCommerce site, built with React and Redux, features cart and buy functionality, along with Axios
+ API calls for seamless product management. It o ers a responsive design, ensuring a smooth shopping
+ experience across devices while enabling real-time updates for a user-friendly interface.
+ CVM (Centralized Voting Management) | Link
+ React, Firebase, Tailwind.css, Context Api
+ CVM, built on React, allows users to validate their voter ID and securely cast their votes for political
+ parties. Administrators can monitor results via a dedicated dashboard. It ensures integrity and
+ transparency in the voting process.
+Chinmaya
